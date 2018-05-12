@@ -1,0 +1,30 @@
+_repo: Metodin-esitysMielenliikutuksien-tutkistelu.-Metafyysillisi--mietelmi-._15085
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Descartes, René
+    alias: Descartes, Rene
+    birthdate: 1596
+    deathdate: 1650
+    gutenberg_agent_id: '44'
+    url: http://www.gutenberg.org/2009/agents/44
+    wikipedia: http://en.wikipedia.org/wiki/René_Descartes
+description: ''
+gutenberg_issued: '2005-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15085'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+title: 'Metodin esitys
+
+  Mielenliikutuksien tutkistelu. Metafyysillisiä mietelmiä.'
+url: http://www.gutenberg.org/ebooks/15085
