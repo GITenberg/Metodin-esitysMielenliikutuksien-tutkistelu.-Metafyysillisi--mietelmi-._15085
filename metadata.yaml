@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44
     wikipedia: http://en.wikipedia.org/wiki/René_Descartes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15085#Metodin-esitysMielenliikutuksien-tutkistelu.-Metafyysillisi--mietelmi-.
 gutenberg_issued: '2005-02-16'
 gutenberg_type: Text
 identifiers:
